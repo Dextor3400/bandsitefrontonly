@@ -77,7 +77,7 @@
                 <article class="row my-4 pb-4 text-center text-lg-left d-flex align-items-center border-bottom border-light">
                     <div class="col-12 col-lg-6 col-xl-5">
                         <a href="/single-post.php"><img class="img-fluid"
-                                src="https://www.rammstein.de/wp-content/uploads/2020/05/RS_JK_Oslo_24526.jpg"
+                                src="/images/post-image.jpg"
                                 alt="post-image"></a>
                     </div>
                     <div class="col-12 col-lg-6 col-xl-7">
@@ -93,7 +93,7 @@
                     class="row my-4 pb-4 text-center text-lg-left d-flex align-items-center border-bottom border-light">
                     <div class="col-12 col-lg-6 col-xl-5">
                         <a href="/single-post.php"><img class="img-fluid"
-                                src="https://www.rammstein.de/wp-content/uploads/2017/03/Rammstein-Chicago-15_07_2016_497.jpg"
+                                src="/images/post-image.jpg"
                                 alt="post-image"></a>
                     </div>
                     <div class="col-12 col-lg-6 col-xl-7">
@@ -108,7 +108,7 @@
                     class="row my-4 pb-4 text-center text-lg-left d-flex align-items-center border-bottom border-light">
                     <div class="col-12 col-lg-6 col-xl-5">
                         <a href="/single-post.php"><img class="img-fluid"
-                                src="https://www.rammstein.de/wp-content/uploads/2016/12/Waldb%C3%BChne-1-13-von-87.jpg"
+                                src="/images/post-image.jpg"
                                 alt="post-image"></a>
                     </div>
                     <div class="col-12 col-lg-6 col-xl-7">
